@@ -1,0 +1,1 @@
+Parsehub REST api wrapper for Laravel 5. Use Parsehub Projects, Project Run as Laravel model.
